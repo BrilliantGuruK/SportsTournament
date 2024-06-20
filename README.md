@@ -1,4 +1,4 @@
-This project is the SENG201 assessment, contributing 30% to the final grade. \
+This project is the SENG201 assessment, contributing 30% to the final grade.(We got B+ for this project) \
 Developed in a team of two, we created a sports team management game with a graphical user interface using Java and Swing. \
 The game allows players to draft athletes for fencing, buy training equipment, and compete in matches to earn points. \
 Key features include team property management, player inventory, and randomly generated matches. \
